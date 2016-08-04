@@ -5,3 +5,5 @@
 ## Python 程式設計課程基礎
 - https://www.slideshare.net/secret/cWYxJQrakO3kYq
 
+## 作業一
+- https://github.com/ywchiu/cathaybkpython/blob/master/Homework1.ipynb
