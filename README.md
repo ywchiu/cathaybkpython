@@ -7,3 +7,6 @@
 
 ## 作業一
 - https://github.com/ywchiu/cathaybkpython/blob/master/Homework1.ipynb
+
+## 用戶畫像概述與貼標流程
+- https://www.slideshare.net/secret/mRBm7DOnHxf9f1
