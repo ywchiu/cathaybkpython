@@ -10,3 +10,6 @@
 
 ## 用戶畫像概述與貼標流程
 - https://www.slideshare.net/secret/mRBm7DOnHxf9f1
+
+## 安裝GIT
+- https://git-scm.com/downloads
